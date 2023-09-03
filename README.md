@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Tracker: clean up GMC (#8003)
