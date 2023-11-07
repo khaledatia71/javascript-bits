@@ -1,1 +1,1 @@
-fix non-coco val
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
