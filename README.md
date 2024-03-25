@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Allow Annotator PIL.Image inputs (#8397)
