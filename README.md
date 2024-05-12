@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Fix TypeError in check_cfg() (#9245)
